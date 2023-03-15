@@ -7,3 +7,10 @@ This service aims to be a place to easy allows the users to:
 * Download existing Neural Ammp Modeler models.
 * Upload your own models.
 * Search Neural Amp Models by metadata.
+
+## development
+
+* Flask
+* SQLAlchemy (sqlite/postgresql)
+* Docker
+* Jinja Templates
