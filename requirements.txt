@@ -1,1 +1,6 @@
-Flask
+flask
+flask-sqlalchemy
+flask-migrate
+sqlalchemy
+gunicorn
+click
