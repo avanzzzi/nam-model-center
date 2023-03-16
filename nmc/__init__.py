@@ -8,7 +8,7 @@ import click
 from flask import Flask
 
 from nmc.blueprints.auth import auth_bp
-from nmc.models import db
+from nmc.database import db
 from nmc.settings import config
 
 
