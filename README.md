@@ -2,18 +2,21 @@
 
 A central repository for Neural Amp Modeler (NAM) Models.
 
-This service aims to be a place to easy allows the users to:
+This service aims to be a place that allows the users to:
 * Browse existing Neural Amp Modeler models.
 * Download existing Neural Ammp Modeler models.
-* Upload your own models.
+* Upload and share your own models.
+* Keep private models.
 * Search Neural Amp Models by metadata.
 
 ## Development
 
 * Flask
 * SQLAlchemy (sqlite/postgresql)
+* mongodb
 * Docker
-* Jinja Templates
+* Jinja Templates (early)
+* React
 
 ## Installation
 
