@@ -1,6 +1,6 @@
 # nam-model-center
 
-**This project is DEPRECATED in favor of: [https://github.com/avanzzzi/tonestack](ToneStack)**
+This project is **DEPRECATED** in favor of: [ToneStack](https://github.com/avanzzzi/tonestack)
 
 A central repository for Neural Amp Modeler (NAM) Models.
 
